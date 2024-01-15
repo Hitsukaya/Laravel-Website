@@ -41,6 +41,28 @@ nmpm run build
 php artisan serve
 
 ```
+Composer:
+
+```
+composer install
+composer update
+
+```
+Laravel Vite build:
+
+```
+npm install
+nmpm run build
+php artisan serve
+
+```
+
+Laravel Serve 127.0.0.1:8000:
+
+```
+php artisan serve
+
+```
 
 
 
